@@ -6,6 +6,6 @@ applications:
   memory: 1G
   instances: 1
   env:
-    REGISTRATION_SERVER_ENDPOINT: http://tracker-registration.apps.pikes.pal.pivotal.io
+    REGISTRATION_SERVER_ENDPOINT: https://registration-pal-to.apps.pikes.pal.pivotal.io
   services:
   - tracker-backlog-database-to
