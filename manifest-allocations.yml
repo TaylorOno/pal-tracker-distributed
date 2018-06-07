@@ -8,3 +8,4 @@ applications:
   services:
   - tracker-allocations-database-to
   - tracker-service-registry
+  - tracker-circuit-breaker-dashboard
